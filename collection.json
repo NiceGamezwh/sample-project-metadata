@@ -1,6 +1,6 @@
 {
     "name": "NiceGame",
     "description": "A sample project for minting NFTs on Immutable zkEVM",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
+    "image": "https://github.com/NiceGamezwh/sample-project-metadata/blob/main/collection.webp",
     "external_link": "https://nicegame.net" 
 }
